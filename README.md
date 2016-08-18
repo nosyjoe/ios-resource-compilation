@@ -4,6 +4,9 @@ A list of all the things that make iOS developers happy
 
 ## Development 
 
+* [codesigning.guide](https://codesigning.guide) a clean and simple approach on creating, maintaining and storing signing certificates and prov. profiles
+* [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
+
 ## Testing
 
 * [Instructions for non-devs how to find out a devices UDID](http://whatsmyudid.com)
