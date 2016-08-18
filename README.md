@@ -12,6 +12,12 @@ A list of all the things that make iOS developers happy
 ### Development Tools
 
 * [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
+* 
+
+### Continouos Integration
+
+* [Jenkins CI](https://jenkins.io): Open Source continuous integration server
+* [bitrise.io](https://www.bitrise.io/): Continuous integration as a Service for iOS / macOS projects
 
 ### Code signing
 
@@ -20,6 +26,8 @@ A list of all the things that make iOS developers happy
 ## Testing
 
 * [Instructions for non-devs how to find out a devices UDID](http://whatsmyudid.com)
+
+### Crowd-Testing providers
 
 ## UI/UX
 
