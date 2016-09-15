@@ -14,6 +14,8 @@ A list of all the things that make iOS developers happy
 * [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
 * [Charles Proxy](https://www.charlesproxy.com/) proxy with GUI for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
 * [mitmproxy](https://mitmproxy.org/) command line proxy tool for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
+* [Paw](https://paw.cloud) is a very powerfull paid http client which comes as a native mac app and supports many importers (Swagger!)
+* [Postman](https://www.getpostman.com) a http client for testing API calls. started out as a chrome extension.
 
 ### Continouos Integration
 
