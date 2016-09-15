@@ -29,6 +29,16 @@ A list of all the things that make iOS developers happy
 
 ### Crowd-Testing providers
 
+## Libraries
+
+### Network 
+
+* AlamoFire
+* ObjectMapper for mapping json to Swift objects
+
+### Image 
+* [TOCropViewController](https://github.com/TimOliver/TOCropViewController) view controller for cropping, resizing and rotating images in a very fancy and easy way
+
 ## UI/UX
 
 * [Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - Overview of Screen Sizes and Resolutions of iOS Devices 
