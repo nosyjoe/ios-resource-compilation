@@ -12,7 +12,8 @@ A list of all the things that make iOS developers happy
 ### Development Tools
 
 * [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
-* 
+* [Charles Proxy](https://www.charlesproxy.com/) proxy with GUI for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
+* [mitmproxy](https://mitmproxy.org/) command line proxy tool for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
 
 ### Continouos Integration
 
