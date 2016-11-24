@@ -9,6 +9,11 @@ A list of all the things that make iOS developers happy
 * [What's new in iOS](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS): Detailed release notes and upgrade informations for developers about iOS versions.
 * [iOS Version distribution chart](https://developer.apple.com/support/app-store/): See what percentage are using the latest and legacy iOS versions.
 
+### News, tutorials, podcasts
+
+* [iOS Dev Weekly](https://iosdevweekly.com) Weekly newsletter / blog post with a dozen or so curated links on different aspects of iOS technology and development. Also job postings.
+* http://raywenderlich.com
+
 ### Development Tools
 
 * [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
