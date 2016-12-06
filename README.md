@@ -39,6 +39,8 @@ A list of all the things that make iOS developers happy
 
 ## Libraries
 
+* RxSwift & RxCocoa
+
 ### Network 
 
 * AlamoFire
