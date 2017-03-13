@@ -4,6 +4,10 @@ A list of all the things that make iOS developers happy
 
 ## Development 
 
+### iOS-independent
+
+* gitignore [templates for xcode projects](https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore) and [for all other projects](https://github.com/github/gitignore)
+
 ### About iOS
 
 * [What's new in iOS](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS): Detailed release notes and upgrade informations for developers about iOS versions.
@@ -36,6 +40,9 @@ A list of all the things that make iOS developers happy
 * [Instructions for non-devs how to find out a devices UDID](http://whatsmyudid.com)
 
 ### Crowd-Testing providers
+
+* Applause
+* Testbirds
 
 ## Libraries
 
