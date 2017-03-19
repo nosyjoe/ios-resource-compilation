@@ -18,6 +18,11 @@ A list of all the things that make iOS developers happy
 * [iOS Dev Weekly](https://iosdevweekly.com) Weekly newsletter / blog post with a dozen or so curated links on different aspects of iOS technology and development. Also job postings.
 * http://raywenderlich.com
 
+### Source Code & Documentation
+
+* [Swift Style Guide from Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide): extensive, sensible style guide for swift
+* [jazzy](https://github.com/realm/jazzy): generates documentation from source code
+
 ### Development Tools
 
 * [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
