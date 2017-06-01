@@ -1,6 +1,6 @@
 # Curated List of Resources for iOS Devs
-A list of all the things that make iOS developers happy
 
+A list of all the things that make iOS developers happy
 
 ## Development 
 
@@ -25,11 +25,17 @@ A list of all the things that make iOS developers happy
 
 ### Development Tools
 
-* [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL
-* [Charles Proxy](https://www.charlesproxy.com/) proxy with GUI for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
-* [mitmproxy](https://mitmproxy.org/) command line proxy tool for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
-* [Paw](https://paw.cloud) is a very powerfull paid http client which comes as a native mac app and supports many importers (Swagger!)
-* [Postman](https://www.getpostman.com) a http client for testing API calls. started out as a chrome extension.
+* [fastlane](https://github.com/fastlane/fastlane): the missing build tool for iOS (and macOS), with a ruby DSL.  Also creates push & app certs, prov. profiles, uploads to TestFlight
+* http proxy for intercepting traffic
+** [Charles Proxy](https://www.charlesproxy.com/) proxy with GUI for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
+** [mitmproxy](https://mitmproxy.org/) command line proxy tool for observing, capturing and on-the-fly- changing of network traffic (from / to an app on a real device / simulator)
+* http client for API testing
+** [Paw](https://paw.cloud) is a very powerfull paid http client which comes as a native mac app and supports many importers (Swagger!)
+** [Postman](https://www.getpostman.com) a http client for testing API calls. started out as a chrome extension.
+
+#### Image optimization
+
+* Google [guetzli](https://github.com/google/guetzli). Optimizes JPG/PNG for size and quality with [butteraugli](https://github.com/google/butteraugli) `guetzli --quality 84 in.jpg out.jpg`
 
 ### Continouos Integration
 
@@ -41,6 +47,11 @@ A list of all the things that make iOS developers happy
 * [codesigning.guide](https://codesigning.guide) a clean and simple approach on creating, maintaining and storing signing certificates and prov. profiles
 
 ## Testing
+
+### Beta distribution
+
+* Apple TestFlight. No UDIDs required. Processing of IPAs :(. Internal testing easy to set up, external testing requires beta app review (faster than normal App Review)
+* Fabric Beta. Requires collecting UDIDs. No IPA-processing, no beta-review.
 
 * [Instructions for non-devs how to find out a devices UDID](http://whatsmyudid.com)
 
